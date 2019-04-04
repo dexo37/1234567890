@@ -1,0 +1,6 @@
+owner=431113384134705153
+prefix=1
+game=Break | 3play
+stayinchannel=true
+songinstatus=false
+token=NTYzMDgwMzI2MDEyNzMxNDA1.XKYhmg.lnxFlHxxvR2nDn0_-de2wyZqeAw
